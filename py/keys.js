@@ -1,0 +1,5 @@
+const keys =  document.querySelector()
+const keyys =  document.querySelector()
+const kdeys =  document.querySelector()
+const dkeys =  document.querySelector()
+const kebnys =  document.querySelector()
